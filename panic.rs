@@ -3,5 +3,5 @@ fn main() {
 }
 
 fn func() -> !{
-    panic!("BABEL BABEL BABEL BABEL")
+    panic!("BABEL BABEL BABEL BABEL");
 }
